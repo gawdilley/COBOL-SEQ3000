@@ -42,7 +42,7 @@
 
        FD  ERRTRAN.
 
-       01  ERROR-TRANSACTION       PIC X(61).
+       01  ERROR-TRANSACTION       PIC X(50).
 
        WORKING-STORAGE SECTION.
 
@@ -122,7 +122,7 @@
 
            READ OLDEMP INTO EMPLOYEE-MASTER-RECORD
                AT END
-                   MOVE HIGH-VALUE TO ET-EMPLOYEE-ID.
+                   MOVE HIGH-VALUE TO EM-EMPLOYEE-ID.
 
        330-MATCH-MASTER-TRAN.
 
