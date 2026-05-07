@@ -1,6 +1,6 @@
 # COBOL-SEQ3000 – Sequential & Indexed File Maintenance
 
-**Course:** COBOL Programming – Sequential & Indexed File Assignment
+**Course:** CIS352 – Intro to Enterprise Computing
 **Author:** [Gabe Dilley](https://github.com/gawdilley)
 **GitHub:** [COBOL-SEQ3000](https://github.com/gawdilley/COBOL-SEQ3000)
 
