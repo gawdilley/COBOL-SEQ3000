@@ -1,5 +1,0 @@
-Self Review
-Gabriel Dilley
-4/23/2026
-
-This assignment was pretty different from what we had been doing. Instead of just printing reports we were actually changing files which was kinda cool. The sequential merge stuff in SEQ3000 was confusing at first, especially keeping track of all the switches, but we got through it as a class. The indexed file programs made more sense to us since being able to look up a record directly by key is a lot easier to think about than the old/new master pattern. Overall we learned a lot from this one even if it took a bit to figure out what was going on.
